@@ -1,0 +1,12 @@
+console.log(42);
+console.log('Veinticinco');
+console.log(true);
+console.log(null);
+console.log(undefined);
+console.log({});
+console.log(false);
+console.log(0);
+console.log('');
+console.log(-666);  
+console.log(3.1416);
+console.log('Tipos de datps en JavaScript');
